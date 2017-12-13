@@ -1622,12 +1622,6 @@
 <infoLinks/>
 </selectionEntry>
 </selectionEntries>
-<rules>
-<rule id="9d7f34a4-0cad-8e35-558a-0a72b5066094" name="Great Traders" hidden="false" page="0">
-      <description>Marienurg warbands start with 100 Extra gold in campagns (20% extra in 1 off games), and gain +1 on thier trader chart rolls for rare items</description>
-      <modifiers/>
-    </rule>
-</rules>
 <entryLinks/>
 <infoLinks>
 <infoLink id="bc6ab1b0-ad56-fcef-5ed7-968f231af91b" targetId="bd2100cc-65f9-2311-e4b9-d0e6830884c3" type="rule">
